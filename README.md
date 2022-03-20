@@ -4,6 +4,8 @@ Broken up into 2 sections:
   - Server Installation
   - Client Installation and Configuration
 
+*Currently working to add zerotier to the build guide
+
 
 Links
 - https://github.com/joshuafuller/ATAK-Maps
