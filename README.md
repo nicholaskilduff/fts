@@ -4,7 +4,7 @@ Broken up into 2 sections:
   - Server Installation
   - Client Installation and Configuration
 
-*Currently working to add zerotier to the build guide
+*Currently working to add zerotier to the server build guide
 
 
 Links
